@@ -1,4 +1,4 @@
 theme = "blowfish"
-baseURL = 'https://example.org/'
+baseURL = 'https://www.ojasvimittal.site'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My portfolio'
