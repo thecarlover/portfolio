@@ -1,0 +1,112 @@
+colorScheme = "Noir"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+enableSearch = true
+enableCodeCopy = false
+disableImageOptimization = false
+disableTextInHeader = false
+
+
+[header]
+layout = "fixed-fill-blur"
+
+[footer]
+showMenu = true
+showCopyright = true
+showThemeAttribution = false
+showAppearanceSwitcher = true
+showScrollToTop = true
+
+[homepage]
+layout = "background"
+showRecent = true
+showRecentItems = 5
+showMoreLink = false
+showMoreLinkDest = "/posts"
+cardView = false
+cardViewScreenWidth = false
+layoutBackgroundBlur = true
+homepageImage = "anime.mp4"
+
+[article]
+showDate = true
+showViews = true
+showLikes = true
+showDateOnlyInArticle = false
+showDateUpdated = false
+showAuthor = true
+showHero = true
+layoutBackgroundBlur = true
+layoutBackgroundHeaderSpace = true
+showBreadcrumbs = true
+showDraftLabel = true
+showEdit = false
+editAppendPath = true
+seriesOpened = false
+showHeadingAnchors = true
+showPagination = true
+invertPagination = false
+showReadingTime = true
+showTableOfContents = true
+showTaxonomies = false
+showAuthorsBadges = true
+showWordCount = true
+showZenMode = true
+sharingLinks = ['linkedin','whatsapp','twitter']
+heroStyle = "background"
+
+[list]
+showHero = true
+heroStyle = "background"
+layoutBackgroundBlur = true
+layoutBackgroundHeaderSpace = true
+showBreadcrumbs = false
+showSummary = false
+showViews = true
+showLikes = true
+showTableOfContents = false
+showCards = false
+groupByYear = false
+cardView = true
+cardViewScreenWidth = false
+constrainItemsWidth = true
+
+
+[sitemap]
+excludedKinds = [ "taxonomy", "term" ]
+
+[taxonomy]
+showTermCount = true
+showHero = false
+showBreadcrumbs = false
+showViews = false
+showLikes = false
+showTableOfContents = false
+cardView = false
+
+[term]
+showHero = false
+showBreadcrumbs = false
+showViews = false
+showLikes = false
+showTableOfContents = true
+groupByYear = false
+cardView = false
+cardViewScreenWidth = false
+
+[firebase]
+    apiKey = "AIzaSyAO37IpCDc7SPimREm8wXxFeHaPwL3R8GI"
+    authDomain = "myportfolio-5091d.firebaseapp.com"
+    projectId = "myportfolio-5091d"
+    storageBucket = "myportfolio-5091d.appspot.com"
+    messagingSenderId = "290395348263"
+    appId = "1:290395348263:web:2687c6694660c95c889d02"
+    measurementId = "G-TK26CYCVL4"
+
+[fathomAnalytics]
+
+[umamiAnalytics]
+
+[buymeacoffee]
+
+[verification]
