@@ -40,7 +40,7 @@ layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = true
 showDraftLabel = true
-showEdit = false
+showEdit = true
 editAppendPath = true
 seriesOpened = false
 showHeadingAnchors = true
@@ -105,7 +105,12 @@ cardViewScreenWidth = false
 
 [fathomAnalytics]
 
+
+
 [umamiAnalytics]
+  websiteid = "84b0410f-4241-4853-9f4f-15eb96cf7f0b"
+  domain = "ojasvimittal.site"
+  
 
 [buymeacoffee]
 
