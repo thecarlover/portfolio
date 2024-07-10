@@ -1,8 +1,7 @@
-
 ---
 title: "Read About me "
 description: "This is My About section please click me to read about me"
-dateString: present
+date: 2024-07-10T00:00:00+05:30
 draft: false
 tags: ["me","about","aboutme"]
 weight: 101
