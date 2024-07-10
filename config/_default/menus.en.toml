@@ -31,8 +31,8 @@
   weight = 4
 
 [[main]]
-  name = "Accomplishments"
-  pageRef = "/accomplishments"
+  name = "Achievements"
+  pageRef = "/achievements"
   weight = 5
 
   
