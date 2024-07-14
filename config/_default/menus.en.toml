@@ -35,6 +35,10 @@
   pageRef = "/achievements"
   weight = 5
 
+[[main]]
+  name = "Sides"
+  pageRef = "/sides"
+  weight = 6
   
 
 #[[main]]
