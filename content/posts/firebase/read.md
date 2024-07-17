@@ -8,7 +8,7 @@ weight: 101
 
 ---
 
-Sure! Here's a detailed blog about Firebase, complete with coding samples, written in Markdown format.
+
 
 ---
 
